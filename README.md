@@ -1,1 +1,1 @@
-# AdvancedCSS-Sass-FlexboxGridAnimations
+# AdvancedCSS-Sass-FlexboxGridAnimations by Jonas Schmedtmann
